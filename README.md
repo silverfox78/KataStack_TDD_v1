@@ -1,1 +1,3 @@
-# KataStack_TDD_v1
+# Kata de una PILA
+
+Proyecto grupal para aprender TDD
